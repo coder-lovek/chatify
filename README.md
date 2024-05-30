@@ -2,9 +2,15 @@
 
 Chatify is a real-time messaging web application built with ReactJS and Firebase. It allows users to communicate with each other in real-time through chat rooms.
 
-## Screenshots
+## Screenshots-1
+![Screenshot 2024-05-30 165301](https://github.com/coder-lovek/chatify/assets/142591319/6fe6b137-0881-49aa-bbae-5d4078a34c6b)
 
-[Insert screenshots here]
+## Screenshots-2
+![Screenshot 2024-05-30 165316](https://github.com/coder-lovek/chatify/assets/142591319/d51fd461-0a8c-40be-ac72-fdd00d0eeac1)
+
+## Screenshots-3
+![Screenshot 2024-05-30 165326](https://github.com/coder-lovek/chatify/assets/142591319/c7eaba2f-d587-411f-8154-b60d2e56a5a3)
+
 
 ## Features
 
